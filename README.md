@@ -22,3 +22,5 @@ This project demonstrates:
 It’s simple to personalize this for any historical figure, mentor, or icon.
 
 see persona.png for template
+
+Photo by Andrea Piacquadio from Pexels: https://www.pexels.com/photo/adult-frowned-male-writer-working-on-typewriter-at-home-3772623/
